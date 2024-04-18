@@ -4,7 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run initially `npm install` to install or dependencies;
+(Rodar inicialmente `npm install` para instalar as dependências)
+Run `ng serve` or `npm run start` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+(Rodar a aplicação utilizando `ng serve` ou `npm run start` caso tenha o note no servidor.)
 
 ## Code scaffolding
 
@@ -14,14 +17,5 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Projeto Modelo criado para curso de Angular a ser ministrado para o ensino médio técnico no IFGoiano Campus Urutaí. Faremos o modelo em sala, este servirá para mostrar o consumo de API que não será feito em sala por falta de tempo hábil.
