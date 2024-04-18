@@ -1,0 +1,98 @@
+@import "/src/assets/styles/styles.scss";
+
+.container {
+  width: 100%;
+  height: 100vh;
+  background: #F4F4F4;
+}
+.label {
+  width: 100%;
+  height: 100px;
+  margin-left: 50px;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+
+  font-family: "Poppins";
+  font-size: 28px;
+  color: #010004bd;
+  text-align: center;
+}
+.panel{
+  height: auto;
+  padding: 10px;
+  width: 70vw;
+}
+.icon{
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  font-size: 30px;
+  color: gray;
+  padding: 5px 15px 0 0;
+}
+.conversas {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  padding-top: 15px;
+
+  font-family: "Poppins";
+  font-size: 16px;
+  color: #010004bd;
+}
+.gray{
+  color: gray;
+}
+.accordion{
+  background: #ffffff;
+}
+.enviada{
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding-top: 20px;
+}
+.recebida{
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-top: 20px;
+}
+.card-enviado{
+  padding: 15px;
+  background-color: #E0E0E0;
+  border-radius: 15px;
+  width: 400px;
+}
+.card-recebido{
+  padding: 15px;
+  background-color: #7EE09D;
+  border-radius: 15px;
+  width: 400px;
+}
+.hour{
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  font-size: 10px;
+  color: #6735D4;
+}
+.input{
+  background: #97EED1;
+  border-radius: 15px;
+  margin-top: 30px;
+  width: 110vh;
+  height: 70px;
+}
+.text-input{
+  padding-top: 15px;
+}
+.input-container{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}

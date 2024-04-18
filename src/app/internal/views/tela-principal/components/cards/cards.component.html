@@ -1,0 +1,9 @@
+<div class="cards">
+  <h3 class="h3textmin">TÓPICOS: </h3>
+  <div class="linhaCard">
+    <mat-card *ngFor="let content of contents" class="card">
+      <img src= {{content.icon}}  alt="simbolizando tema" style="width: 30%; height: 30%;">
+      <mat-card-title>{{ content.nome }}</mat-card-title>
+    </mat-card>
+  </div>
+</div>

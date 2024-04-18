@@ -1,0 +1,17 @@
+[
+  { "id" : 1, "name" : "Pedro", "imgUrl" : "io", "vistoPorUltimo" : "2024-04-15T23:03:55.459+00:00",
+    "mensagemEnviada": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur..",
+    "mensagemRecebida": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur.." },
+
+  { "id" : 2, "name" : "Alberto", "imgUrl" : "io", "vistoPorUltimo" : "2024-04-15T23:03:55.459+00:00",
+    "mensagemEnviada": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur..",
+    "mensagemRecebida": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur.." },
+
+  { "id" : 3, "name" : "Luiz", "imgUrl" : "io", "vistoPorUltimo" : "2024-04-15T23:03:55.459+00:00",
+    "mensagemEnviada": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur..",
+    "mensagemRecebida": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur.." },
+    
+  { "id" : 4, "name" : "Adalberto", "imgUrl" : "io", "vistoPorUltimo" : "2024-04-15T23:03:55.459+00:00",
+    "mensagemEnviada": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur..",
+    "mensagemRecebida": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur.." }
+]

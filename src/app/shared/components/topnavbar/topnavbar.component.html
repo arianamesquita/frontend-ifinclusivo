@@ -1,0 +1,16 @@
+<div class="container">
+
+  <div class="left">
+    <button class="ifinclusivo">
+      <img src="{{ifinclusivo}}" alt="IFInclusivo" (click)="navigateTo('home')">
+    </button>
+  </div>
+  <div class="middle">
+    <button class="buttons" *ngFor="let button of buttons" (click)="navigateTo(button.text)"
+     [ngClass]="{'lilas': isRouteSelected(button.text)}">{{ button.text }}</button>
+  </div>
+  <div class="right">
+    <button class="usuario">{{ usuario }}</button>
+  </div>
+
+</div>

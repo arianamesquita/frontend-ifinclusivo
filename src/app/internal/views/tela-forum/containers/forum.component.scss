@@ -1,0 +1,15 @@
+@import "/src/assets/styles/styles.scss";
+
+.container{
+  width: 100vw;
+  height: 100vh;
+  background: #f9f9f9;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.branco{
+  width: 65vw;
+  height: auto;
+}
